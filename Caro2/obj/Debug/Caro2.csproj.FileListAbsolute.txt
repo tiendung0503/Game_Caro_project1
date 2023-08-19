@@ -1,0 +1,67 @@
+C:\Users\admin\Downloads\Documents\Code\Test\Caro2\Caro2\bin\Debug\Caro2.exe.config
+C:\Users\admin\Downloads\Documents\Code\Test\Caro2\Caro2\bin\Debug\Caro2.exe
+C:\Users\admin\Downloads\Documents\Code\Test\Caro2\Caro2\bin\Debug\Caro2.pdb
+C:\Users\admin\Downloads\Documents\Code\Test\Caro2\Caro2\obj\Debug\Caro2.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Documents\Code\Test\Caro2\Caro2\obj\Debug\Caro2.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\Documents\Code\Test\Caro2\Caro2\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Downloads\Documents\Code\Test\Caro2\Caro2\obj\Debug\App.g.cs
+C:\Users\admin\Downloads\Documents\Code\Test\Caro2\Caro2\obj\Debug\Caro2_MarkupCompile.cache
+C:\Users\admin\Downloads\Documents\Code\Test\Caro2\Caro2\obj\Debug\Caro2_MarkupCompile.lref
+C:\Users\admin\Downloads\Documents\Code\Test\Caro2\Caro2\obj\Debug\MainWindow.baml
+C:\Users\admin\Downloads\Documents\Code\Test\Caro2\Caro2\obj\Debug\Caro2.g.resources
+C:\Users\admin\Downloads\Documents\Code\Test\Caro2\Caro2\obj\Debug\Caro2.Properties.Resources.resources
+C:\Users\admin\Downloads\Documents\Code\Test\Caro2\Caro2\obj\Debug\Caro2.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Documents\Code\Test\Caro2\Caro2\obj\Debug\Caro2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Documents\Code\Test\Caro2\Caro2\obj\Debug\Caro2.exe
+C:\Users\admin\Downloads\Documents\Code\Test\Caro2\Caro2\obj\Debug\Caro2.pdb
+C:\Users\ASUS\Downloads\Caro2\Caro2\Caro2\bin\Debug\Caro2.exe.config
+C:\Users\ASUS\Downloads\Caro2\Caro2\Caro2\bin\Debug\Caro2.exe
+C:\Users\ASUS\Downloads\Caro2\Caro2\Caro2\bin\Debug\Caro2.pdb
+C:\Users\ASUS\Downloads\Caro2\Caro2\Caro2\obj\Debug\Caro2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Caro2\Caro2\Caro2\obj\Debug\Caro2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Downloads\Caro2\Caro2\Caro2\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Downloads\Caro2\Caro2\Caro2\obj\Debug\App.g.cs
+C:\Users\ASUS\Downloads\Caro2\Caro2\Caro2\obj\Debug\Caro2_MarkupCompile.cache
+C:\Users\ASUS\Downloads\Caro2\Caro2\Caro2\obj\Debug\Caro2_MarkupCompile.lref
+C:\Users\ASUS\Downloads\Caro2\Caro2\Caro2\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Downloads\Caro2\Caro2\Caro2\obj\Debug\Caro2.g.resources
+C:\Users\ASUS\Downloads\Caro2\Caro2\Caro2\obj\Debug\Caro2.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Caro2\Caro2\Caro2\obj\Debug\Caro2.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Caro2\Caro2\Caro2\obj\Debug\Caro2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Caro2\Caro2\Caro2\obj\Debug\Caro2.exe
+C:\Users\ASUS\Downloads\Caro2\Caro2\Caro2\obj\Debug\Caro2.pdb
+D:\CaroVST\Caro2\Caro2\bin\Debug\Caro2.exe.config
+D:\CaroVST\Caro2\Caro2\bin\Debug\Caro2.exe
+D:\CaroVST\Caro2\Caro2\bin\Debug\Caro2.pdb
+D:\CaroVST\Caro2\Caro2\obj\Debug\Caro2.csproj.AssemblyReference.cache
+D:\CaroVST\Caro2\Caro2\obj\Debug\Caro2.csproj.SuggestedBindingRedirects.cache
+D:\CaroVST\Caro2\Caro2\obj\Debug\MainWindow.g.cs
+D:\CaroVST\Caro2\Caro2\obj\Debug\App.g.cs
+D:\CaroVST\Caro2\Caro2\obj\Debug\Caro2_MarkupCompile.cache
+D:\CaroVST\Caro2\Caro2\obj\Debug\Caro2_MarkupCompile.lref
+D:\CaroVST\Caro2\Caro2\obj\Debug\MainWindow.baml
+D:\CaroVST\Caro2\Caro2\obj\Debug\Caro2.g.resources
+D:\CaroVST\Caro2\Caro2\obj\Debug\Caro2.Properties.Resources.resources
+D:\CaroVST\Caro2\Caro2\obj\Debug\Caro2.csproj.GenerateResource.cache
+D:\CaroVST\Caro2\Caro2\obj\Debug\Caro2.csproj.CoreCompileInputs.cache
+D:\CaroVST\Caro2\Caro2\obj\Debug\Caro2.exe
+D:\CaroVST\Caro2\Caro2\obj\Debug\Caro2.pdb
+D:\Code C#\CaroVST\Caro2\Caro2\bin\Debug\Caro2.exe.config
+D:\Code C#\CaroVST\Caro2\Caro2\bin\Debug\Caro2.exe
+D:\Code C#\CaroVST\Caro2\Caro2\bin\Debug\Caro2.pdb
+D:\Code C#\CaroVST\Caro2\Caro2\bin\Debug\M2Mqtt.Net.dll
+D:\Code C#\CaroVST\Caro2\Caro2\bin\Debug\M2Mqtt.Net.pdb
+D:\Code C#\CaroVST\Caro2\Caro2\obj\Debug\Caro2.csproj.AssemblyReference.cache
+D:\Code C#\CaroVST\Caro2\Caro2\obj\Debug\Caro2.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\CaroVST\Caro2\Caro2\obj\Debug\MainWindow.g.cs
+D:\Code C#\CaroVST\Caro2\Caro2\obj\Debug\App.g.cs
+D:\Code C#\CaroVST\Caro2\Caro2\obj\Debug\Caro2_MarkupCompile.cache
+D:\Code C#\CaroVST\Caro2\Caro2\obj\Debug\Caro2_MarkupCompile.lref
+D:\Code C#\CaroVST\Caro2\Caro2\obj\Debug\MainWindow.baml
+D:\Code C#\CaroVST\Caro2\Caro2\obj\Debug\Caro2.g.resources
+D:\Code C#\CaroVST\Caro2\Caro2\obj\Debug\Caro2.Properties.Resources.resources
+D:\Code C#\CaroVST\Caro2\Caro2\obj\Debug\Caro2.csproj.GenerateResource.cache
+D:\Code C#\CaroVST\Caro2\Caro2\obj\Debug\Caro2.csproj.CoreCompileInputs.cache
+D:\Code C#\CaroVST\Caro2\Caro2\obj\Debug\Caro2.csproj.CopyComplete
+D:\Code C#\CaroVST\Caro2\Caro2\obj\Debug\Caro2.exe
+D:\Code C#\CaroVST\Caro2\Caro2\obj\Debug\Caro2.pdb

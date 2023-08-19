@@ -1,0 +1,41 @@
+﻿<Window x:Class="Caro2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Caro2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="120"/>
+        </Grid.ColumnDefinitions>
+        <Border Grid.Column="1" Background="GhostWhite">
+            <StackPanel>
+                <Button Margin="10" Content="New game" Name="btnNew" Height="20" Width="80" Click="btnNew_Click" Background="#FFF39EE4" Foreground="Black"/>
+                <Button Margin="10" Content="Undo" Name="btnUndo" Height="20" Width="80" Background="#FFD397F3"/>
+                <Button Height="20" Width="80"/>
+            </StackPanel>
+        </Border>
+        <Border x:Name="desk_caro"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center">
+            <Grid Width="100" Height="100" Background="BLACK">
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <Canvas Grid.Row="0" Grid.Column="0" Margin="0.5" Background="PINK" />
+                <Canvas Grid.Row="0" Grid.Column="1" Margin="0.5" Background="PINK" />
+                <Canvas Grid.Row="1" Grid.Column="0" Margin="0.5" Background="PINK" />
+                <Canvas Grid.Row="1" Grid.Column="1" Margin="0.5" Background="PINK" />
+            </Grid>
+        </Border>
+    </Grid>
+</Window>
